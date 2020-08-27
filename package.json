@@ -1,0 +1,30 @@
+{
+  "name": "publish-gist",
+  "version": "1.0.0",
+  "description": "A simple commandline app that helps you to publish clipboard contents to a new gist on Github",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sandeep",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "clipboardy": "^2.3.0",
+    "prompt": "^1.0.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/letsandeepio/publish-gist.git"
+  },
+  "keywords": [
+    "utility",
+    "gist",
+    "github"
+  ],
+  "bugs": {
+    "url": "https://github.com/letsandeepio/publish-gist/issues"
+  },
+  "homepage": "https://github.com/letsandeepio/publish-gist#readme"
+}
