@@ -2,9 +2,6 @@ const clipboardy = require('clipboardy');
 const axios = require('axios');
 const prompt = require('prompt');
 
-const access_token = `ce10f4177bc2aaa305a062b2d7971eb77bcf2d81`;
-// Send a POST request
-
 const promptAttributes = [
   { name: 'filename', description: 'please enter file name for gist' },
   {

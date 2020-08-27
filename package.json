@@ -4,6 +4,7 @@
   "description": "A simple commandline app that helps you to publish clipboard contents to a new gist on Github",
   "main": "index.js",
   "scripts": {
+    "start": "node .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Sandeep",
